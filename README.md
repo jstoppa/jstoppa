@@ -20,7 +20,7 @@ This is where I document what I am building: AI agents, engineering experiments 
 - 🧪 [gpthackathon](https://github.com/jstoppa/gpthackathon): Hackathon style LLM prototype work.
 
 ### Engineering and frontend POC
-- 🧩 [formql](https://github.com/jstoppa/dynamic-forms): A framework for building dynamic forms in Angular
+- 🧩 [formql](https://github.com/formql/formql): A framework for building dynamic forms in Angular
 - ⚡ [angular-rxjs-in-memory-caching-dynamic](https://github.com/jstoppa/angular-rxjs-in-memory-caching-dynamic): RxJS caching patterns for dynamic Angular apps.
 - 🧠 [angular-rxjs-in-memory-caching](https://github.com/jstoppa/angular-rxjs-in-memory-caching): Angular + RxJS in-memory caching demo.
 - 🧱 [angular-rxjs-facades-dynamic-components-d3tnxy](https://github.com/jstoppa/angular-rxjs-facades-dynamic-components-d3tnxy): Facade pattern and dynamic components in Angular.
