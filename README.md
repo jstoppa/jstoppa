@@ -34,7 +34,6 @@ This is where I document what I am building: AI agents, engineering experiments 
 
 - 🌐 [jstoppa.com](https://github.com/jstoppa/jstoppa.com): Source for my personal website and writing.
 - 📈 [playground.bar-chart-race](https://github.com/jstoppa/playground.bar-chart-race): Data visualisation playground.
-- 🧪 [playground.jstoppa.com](https://github.com/jstoppa/playground.jstoppa.com): Playground site repository.
 
 ## GitHub activity
 
