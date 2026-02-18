@@ -38,6 +38,6 @@ This is where I document what I am building: AI agents, engineering experiments 
 
 ## GitHub activity
 
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jstoppa&show_icons=true&theme=transparent)
 ![GitHub streak](https://streak-stats.demolab.com?user=jstoppa&theme=transparent)
+
 ![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=jstoppa&theme=github-compact)
