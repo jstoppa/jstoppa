@@ -3,11 +3,11 @@
 This is where I document what I am building: AI agents, engineering experiments and practical workflows from real projects.
 
 ## What I work on
-- 🤖 AI agents and automation
-- 🧰 Developer workflows and coding assistants
-- 🗄️ Data interfaces and applied LLM tooling
-- 🐳 Personal infra and self-hosted systems
-- 🅰️ Angular and dynamic UI architecture
+- 🤖  AI agents and automation
+- 🧰  Developer workflows and coding assistants
+- 🗄️  Data interfaces and applied LLM tooling
+- 🐳  Personal infra and self-hosted systems
+- 🅰️  Angular and dynamic UI architecture
 
 ### AI agents and AI tooling
 
