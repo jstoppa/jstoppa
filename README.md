@@ -20,7 +20,7 @@ This is where I document what I am building: AI agents, engineering experiments 
 - 🧪 [gpthackathon](https://github.com/jstoppa/gpthackathon): Hackathon style LLM prototype work.
 
 ### Engineering and frontend POC
-- 👀 [Grok Bot looking for Cursor](https://jstoppa.com/grokbot/): A three.js bot whose eyes follow your cursor. Leave and it gets confused, sad, then bored. Click to tickle it until it laughs.
+- 👀 [Grok Bot looking for Cursor](https://jstoppa.com/grokbot/): A three.js bot whose eyes follow your cursor. Leave and it gets confused, sad, then bored.
 - 📝 [JSON Form Online](https://jstoppa.com/jsonforms/): A JSON form that actually works. Paste a JSON Schema, a UI schema, and data and the form renders.
 - 🧩 [formql](https://github.com/formql/formql): A framework for building dynamic forms in Angular
 - ⚡ [angular-rxjs-in-memory-caching-dynamic](https://github.com/jstoppa/angular-rxjs-in-memory-caching-dynamic): RxJS caching patterns for dynamic Angular apps.
